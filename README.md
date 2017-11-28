@@ -5,19 +5,19 @@
 安裝完firefox 後到 https://addons.mozilla.org/en-US/firefox/addon/favorites-selenium-ide/ 下載FireFox Selenium IDE插件  
 
 安裝完插件可以在右上角找到他
-![](https://imgur.com/PXGcmtJ)
+![](https://imgur.com/PXGcmtJ.jpg)
 
 用法: 按下錄制後開始動作
-![](https://imgur.com/Xqc0FQ5)
+![](https://imgur.com/Xqc0FQ5.jpg)
 
 可以看見你所操作的步驟
-![](https://imgur.com/V1zPHxc)
+![](https://imgur.com/V1zPHxc.jpg)
 
 匯出的方法:
-![](https://imgur.com/WrRNPAG)
+![](https://imgur.com/WrRNPAG.jpg)
 
 
-![](https://imgur.com/6xz9vvU)
+![](https://imgur.com/6xz9vvU.jpg)
 
 # Browser Driver
 使用Python執行時所需要的Driver  
