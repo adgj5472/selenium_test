@@ -2,7 +2,8 @@
 只支援 FrieFox 46版本以下  
 [FrieFox 46 下載點](https://drive.google.com/file/d/1tA9KgcimG6Jd7IdM8jCuYDFp9jrkLhP0/view?usp=sharing)    
 
-安裝完firefox 後到 https://addons.mozilla.org/en-US/firefox/addon/favorites-selenium-ide/ 下載FireFox Selenium IDE插件  
+安裝完firefox 後下載FireFox Selenium IDE插件  
+[FireFox Selenium IDE 載點](https://addons.mozilla.org/zh-TW/firefox/addon/selenium-ide/)  
 
 安裝完插件可以在右上角找到他
 
