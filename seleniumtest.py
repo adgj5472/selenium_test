@@ -10,13 +10,8 @@ from selenium.common.exceptions import TimeoutException
 
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import NoAlertPresentException
-import requests
-import unittest
 import time
-import re
-import sys
 from getpass import getpass
-from bs4 import BeautifulSoup
 import os
 import threading
 from selenium.webdriver.common.action_chains import ActionChains
