@@ -16,12 +16,12 @@ import os
 import threading
 from selenium.webdriver.common.action_chains import ActionChains
 
-url="http://192.168.3.106:8080/SecuDocX/"
-loginfailUrl='http://192.168.3.106:8080/SecuDocX/SecuDocXLogin.jsp?LoginErrorMsg=AccountError'
+url="http://192.168.3.106:8080/SecuDocX/" #目標網址
+loginfailUrl='http://192.168.3.106:8080/SecuDocX/SecuDocXLogin.jsp?LoginErrorMsg=AccountError' # 密碼錯誤網址(之後可以改變判斷條件)
 
-driver = webdriver.Chrome(executable_path=r'chromedriver.exe')
-#driver = webdriver.Firefox()
-#driver = webdriver.PhantomJS(executable_path='phantomjs.exe')
+driver = webdriver.Chrome(executable_path=r'chromedriver.exe') #chrome driver
+#driver = webdriver.Firefox() #Firefox driver
+#driver = webdriver.PhantomJS(executable_path='phantomjs.exe')#網路上常用無UI 省資源的 driver
 actionChains = ActionChains(driver)
 
 
