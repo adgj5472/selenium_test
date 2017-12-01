@@ -1,3 +1,6 @@
+# 需安裝的module   
+pip install selenium
+
 # Selenium IDE   
 只支援 FrieFox 46版本以下  
 [FrieFox 46 下載點](https://drive.google.com/file/d/1tA9KgcimG6Jd7IdM8jCuYDFp9jrkLhP0/view?usp=sharing)    
