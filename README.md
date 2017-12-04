@@ -38,4 +38,4 @@ pip install selenium
 * [網站自動化測試程式的網頁元件定位 Xpath語法與範例](https://www.qa-knowhow.com/?p=2164)      
 * [selenium滑鼠鍵盤操作](http://m.jb51.net/article/92682.htm)      
 
-
+Python Version : 3
