@@ -39,6 +39,9 @@ pip install selenium
 * [在Selenium 輸入Enter/Return KEY](https://ask.helplib.com/selenium/post_357327)    
 * [網站自動化測試程式的網頁元件定位 Xpath語法與範例](https://www.qa-knowhow.com/?p=2164)       
 * [selenium滑鼠鍵盤操作](http://m.jb51.net/article/92682.htm)      
+* [python3+selenium3+ie9初體驗](http://blog.csdn.net/s740556472/article/details/78150666)    
+* [Selenium3.0 自動化測試](http://www.cnblogs.com/fnng/p/5932224.html)    
+* [12個網站自動化實務常問到的問題](https://www.qa-knowhow.com/?p=1954)   
 
 # 例外處理    
 from selenium.common.exceptions import 
