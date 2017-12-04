@@ -24,7 +24,6 @@ pip install selenium
 
 ![](https://imgur.com/WrRNPAG.jpg)
 
-
 ![](https://imgur.com/6xz9vvU.jpg)
 
 # Browser Driver
@@ -48,9 +47,12 @@ driver = webdriver.Ie(executable_path=r'[IE driver路徑]')  
 * [12個網站自動化實務常問到的問題](https://www.qa-knowhow.com/?p=1954)   
 
 # 例外處理    
-from selenium.common.exceptions import 
-* NoAlertPresentException : 沒有Alert彈出視窗    
-* UnexpectedAlertPresentException : 有Alert彈出視窗但是沒有按確定    
+from selenium.common.exceptions import NoAlertPresentException    
+from selenium.common.exceptions import UnexpectedAlertPresentException    
+from selenium.common.exceptions import NoSuchElementException    
+
+* NoAlertPresentException : 沒有Alert彈出視窗    
+* UnexpectedAlertPresentException : 有Alert彈出視窗但是沒有按確定    
 * NoSuchElementException : 在HTML中沒有找到元素(目前常遇到在程式執行動作太快，JS還沒產生HTML就執行，所以需要sleep(1)等待一下)    
 * 待補充...
 
