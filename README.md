@@ -38,4 +38,11 @@ pip install selenium
 * [網站自動化測試程式的網頁元件定位 Xpath語法與範例](https://www.qa-knowhow.com/?p=2164)      
 * [selenium滑鼠鍵盤操作](http://m.jb51.net/article/92682.htm)      
 
+# 例外處理    
+from selenium.common.exceptions import 
+* NoAlertPresentException : 沒有Alert彈出視窗    
+* UnexpectedAlertPresentException : 有Alert彈出視窗但是沒有按確定    
+* NoSuchElementException : 在HTML中沒有找到元素(目前常遇到在程式執行動作太快，JS還沒產生HTML就執行，所以需要sleep(1)等待一下)    
+* 待補充...
+
 Python Version : 3
