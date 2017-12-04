@@ -29,8 +29,10 @@ pip install selenium
 
 # Browser Driver
 使用Python執行時所需要的Driver  
-[chromedriver.exe 下載點](https://drive.google.com/open?id=1ijKanCXUebmcSVCD-4vxeh5eFFHyrAKR)  
-[phantomjs.exe下載點](https://drive.google.com/open?id=1g3JiwNayPonKRGV4vs_aFGKq3zaFOJ2H)  
+[Chrome Driver 下載點](https://drive.google.com/open?id=15JumKkpBaJcINOWdcx5ml3mr-Yvb4sKQ)  
+[FireFox Driver 下載點](https://drive.google.com/open?id=12UWnd0EKUnbUe-Mq1G3qeqaSArUUs2Ly)  
+[IE Driver 下載點](https://drive.google.com/open?id=1Zc8GHcxFKZB6OSHnPS8JP5wjYIrCjsUv)  
+
 
 # 參考資料   
 * [自動化測試程式如何驗證網頁畫面?](https://www.qa-knowhow.com/?p=2431)      
