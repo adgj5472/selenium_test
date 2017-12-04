@@ -33,6 +33,10 @@ pip install selenium
 [FireFox Driver 下載點](https://drive.google.com/open?id=12UWnd0EKUnbUe-Mq1G3qeqaSArUUs2Ly)  
 [IE Driver 下載點](https://drive.google.com/open?id=1Zc8GHcxFKZB6OSHnPS8JP5wjYIrCjsUv)  
 
+Browser Driver 使用方法    
+driver = webdriver.Chrome(executable_path=r'[chrome driver路徑]')    
+driver = webdriver.Firefox(executable_path=r'[firefox driver路徑]')    
+driver = webdriver.Ie(executable_path=r'[IE driver路徑]')    
 
 # 參考資料   
 * [自動化測試程式如何驗證網頁畫面?](https://www.qa-knowhow.com/?p=2431)      
