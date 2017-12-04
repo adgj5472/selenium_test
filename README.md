@@ -34,9 +34,9 @@ pip install selenium
 
 # 參考資料   
 * [自動化測試程式如何驗證網頁畫面?](https://www.qa-knowhow.com/?p=2431)      
-* [在Selenium 輸入Enter/Return KEY]()https://ask.helplib.com/selenium/post_357327     
-* [網站自動化測試程式的網頁元件定位 Xpath語法與範例](https://www.qa-knowhow.com/?p=2164)      
-* [selenium滑鼠鍵盤操作](http://m.jb51.net/article/92682.htm)      
+* [在Selenium 輸入Enter/Return KEY](https://ask.helplib.com/selenium/post_357327)    
+* [網站自動化測試程式的網頁元件定位 Xpath語法與範例](https://www.qa-knowhow.com/?p=2164)       
+* [selenium滑鼠鍵盤操作](http://m.jb51.net/article/92682.htm)      
 
 # 例外處理    
 from selenium.common.exceptions import 
